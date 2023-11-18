@@ -1,0 +1,735 @@
+```
+I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/scripts/ch_1/basement_1_empty.rpy", line 151: end of line expected.
+    p "あなたは私を"殿下"と呼ぶことができます.\nまた、"殿下"が堅苦しい場合は、単に"王女"と呼ぶこともできます.\n"
+              ^
+
+File "game/scripts/ch_1/basement_1_empty.rpy", line 155: end of line expected.
+    hero ""プリンセス"は彼女の名前ですか、それとも彼女の肩書きですか?もしそれが両方だとしたら?あなたはプリンセスプリンセスと名付けられることを想像できますか?"
+           ^
+
+File "game/scripts/ch_1/basement_1_empty.rpy", line 312: end of line expected.
+    p "私を"殺す"ためにあなたを送った人は誰でも、私は世界にとって脅威だと主張しましたが、彼らはその理由をあなたに教えませんでした.\n"
+          ^
+
+File "game/scripts/ch_1/basement_1_empty.rpy", line 403: end of line expected.
+    p "あなたは真実を求めているのですか、それとも"正しい"答えを求めているのですか?なぜなら、ここで起こっている力学では、私が"する"ことの詳細は本当に重要ではないと思うからです.\n"
+                             ^
+
+File "game/scripts/ch_1/basement_1_empty.rpy", line 512: end of line expected.
+    hero ""これらの鎖を滑らせますか?"彼女はできませんよね?彼女はここから出るのに私たちの助けが必要でした.でも彼女の声に信念が聞こえますか?私は彼女がはったりをかけているとは思いません.\n"
+           ^
+
+File "game/scripts/ch_1/basement_1_empty.rpy", line 565: end of line expected.
+    hero ""これらの鎖を滑らせますか?"彼女はできませんよね?彼女はここから出るのに私たちの助けが必要でした.でも彼女の声に信念が聞こえますか?私は彼女がはったりをかけているとは思いません.\n"
+           ^
+
+File "game/scripts/ch_1/basement_1_empty.rpy", line 590: end of line expected.
+    hero ""これらの鎖を滑らせますか?"彼女はできませんよね?彼女はここから出るのに私たちの助けが必要でした.でも彼女の声に信念が聞こえますか?私は彼女がはったりをかけているとは思いません.\n"
+           ^
+
+File "game/scripts/ch_1/basement_1_empty.rpy", line 1759: end of line expected.
+    sp "理解する必要があります.それは"リスクを冒す価値がない"だけです.\n"
+                        ^
+
+File "game/scripts/ch_1/basement_1_knife.rpy", line 1127: end of line expected.
+    n "より幸せな時間は過ぎていきますが、その言葉は意味を失い始めます.''時間"、つまり"幸せ"ではありません.''幸せ"にはまだ多くの意味があります."
+                                            ^
+
+File "game/scripts/ch_1/basement_1_knife.rpy", line 1133: end of line expected.
+    n "やがて、あなたは純粋な存在の至福の状態になります.しかし、"やがて"や"通過"のような言葉は、その変化のずっと前にあなたにとって何の意味も持たなくなりました.あなたはただ存在するだけです.幸せです.永遠に."
+                                     ^
+
+File "game/scripts/ch_1/basement_1_knife.rpy", line 1186: Only one say menuitem may exist per menu.
+    "{i}• (탐구)刃物を"使用"して、私たちを殺すのではないでしょうか?私たちは死んでいるのではないでしょうか?{/i}" if cycle_1_princess_slain_offer_heard_menu_explore == False:
+                                                                  ^
+
+File "game/scripts/ch_1/basement_1_knife.rpy", line 1493: end of line expected.
+    p "私を"殺す"ためにあなたを送った人は誰でも、私は世界にとって脅威だと主張しましたが、彼らはあなたにその理由を言いませんでした.\n"
+          ^
+
+File "game/scripts/ch_1/basement_1_knife.rpy", line 1502: end of line expected.
+    p "だから、私は森で静かな生活を送ったり、孤児院を開いたり、あなたが聞きたいと思っていると確信している他のいくつかの"良い"ことをしたりするとあなたに言うことができます.\n"
+                                                                ^
+
+File "game/scripts/ch_1/basement_1_knife.rpy", line 1733: end of line expected.
+    hero ""これらの鎖を滑らせますか?"彼女はできませんよね?彼女はここから出るのに私たちの助けが必要でした.でも彼女の声に信念が聞こえますか?私は彼女がはったりをかけているとは思いません.\n"
+           ^
+
+File "game/scripts/ch_1/script.rpy", line 572: end of line expected.
+    n "世界が終わっても"新しい夜明け"は{i}ありません{/i}.ただ{i}何もない{/i}だけです.永遠に!\n"
+                ^
+
+File "game/scripts/ch_1/script.rpy", line 678: end of line expected.
+    n ""殺害"はとてもゴーシュな言い回しで、全体像を完全に無視しています.あなたの仕事は王女を{i}殺す{/i}ことです.なぜなら彼女はひどい人で、本当にそれを彼女にもたらしているからです.\n"
+        ^
+
+File "game/scripts/paths/_joint/fury/fury_start.rpy", line 83: end of line expected.
+    hero "あなたの"もの"が私たちに王女のことを話しているのなら、息を無駄にしないでください.私たちは彼女のことをすべて知っています.そして、それは現時点では森の中の道ではありませんよね?\n"
+               ^
+
+File "game/scripts/paths/_joint/fury/fury_start.rpy", line 177: end of line expected.
+    contrarian "しかし、"ここ"とは何を意味するのでしょうか?あなたは私たちに道と王女とそのすべてについてすでに話しましたが、これは前の道とは非常に異なる道です.\n"
+                     ^
+
+File "game/scripts/paths/_joint/fury/fury_start.rpy", line 201: end of line expected.
+    n "{i}한숨{/i}.ほら.もしあなたの周りの世界が変化しているなら、特にここまでずっと変化しているなら、それはあなたがポイントオブノーリターンに近づいていることを意味します.次に何が起ころうとも、それだけです.もう"やり直し"はないので、物事を真剣に考えた方がいいですよ.\n"
+                                                                                                                   ^
+
+File "game/scripts/paths/_joint/fury/fury_start.rpy", line 294: Only one say menuitem may exist per menu.
+    "{i}• (탐구)もし私が彼女を殺さなかったら、もし私がただここにいるか何か他のことをして、私たちがこの"ポイントオブノーリターン"に達したら…どうなる?{/i}" if fury_path_menu_brinksmanship == False:
+                                                                                       ^
+
+File "game/scripts/paths/_joint/fury/fury_start.rpy", line 426: end of line expected.
+    contrarian "私たちが"正しい"ことをしたいなら、私たちはそれが必要になります.私はそれを錆びに任せると言います.\n"
+                     ^
+
+File "game/scripts/paths/_joint/fury/fury_start.rpy", line 456: end of line expected.
+(Perhaps you left out a " at the end of the first line.)
+    contrarian ""台座、台座の上にある刃物、そして地下室へのドア.''ええ、私たちはすでにこれをすべて行いました.\n"
+                 ^
+                                else:
+                                    voice "audio/voices/ch3/fury/contrarian/fury_contrarian_19.wav"
+                                    contrarian ""台座と地下室へのドア.''ええ、私たちはすでにこれをすべて行いました.\n"
+
+File "game/scripts/paths/_joint/fury/fury_start.rpy", line 483: end of line expected.
+    n "{i}한숨{/i}.私はあなたに何と言ったらいいのかわかりません!鏡はありません.なぜなら、鏡があれば私はわかるからです.あなたは物事を見ているか、"ドア"と"鏡"の定義に混乱しているかのどちらかです.あるいは、あなたは物事を見ているかのどちらかです.それははるかに可能性が高いようです.\n"
+                                                                                  ^
+
+File "game/scripts/paths/_joint/grey/grey_start.rpy", line 250: end of line expected.
+    cold "もしあったとしても、それは問題ではありません.少しの雨が彼女の"影響"が呼び起こす最高のものであれば、私たちは何も心配することはありません.びしょ濡れの死体はまだ死体です."
+                                          ^
+
+File "game/scripts/paths/_joint/grey/grey_start.rpy", line 261: end of line expected.
+    cold ""影響"には生命は必要ありません.\n"
+           ^
+
+File "game/scripts/paths/_joint/grey/grey_start.rpy", line 289: end of line expected.
+    smitten "ああ、それは明らかです、この殺人者.しかし、あなたはあなたが思っているほど"責任者"ではないことを私はあなたに思い出させるべきです.\n"
+                                                   ^
+
+File "game/scripts/paths/_joint/grey/grey_start.rpy", line 422: end of line expected.
+    n "あなたの"過去の人生"の1つで、私の警告の言葉をすでに聞いたことがあると思います.あなたはすでに一度彼女を殺すことができました、ただ.{i}한숨.{/i}.今回は台無しにしないで、いいですか?\n"
+            ^
+
+File "game/scripts/paths/_joint/grey/grey_start.rpy", line 447: end of line expected.
+    skeptic "私たちが知っている限りでは、あなたが話している"世界"は現実でさえありません.\n"
+                                     ^
+
+File "game/scripts/paths/_joint/grey/grey_start.rpy", line 542: end of line expected.
+    skeptic "はい、彼が"見ることができない"鏡です.\n"
+                   ^
+
+File "game/scripts/paths/_joint/grey/grey_start.rpy", line 610: end of line expected.
+    n "部屋の端のドアに向かって、その前で止まります.あなたは先ほど言った"鏡"を見ていると思っているに違いありません.存在しない鏡です.{i}ため息をついて{/i}前に手を伸ばしてドアを開けてください.\n"
+                                         ^
+
+File "game/scripts/paths/_joint/grey/grey_start.rpy", line 813: end of line expected.
+    n "ああ、愛のために、"死んでいる"ものと"死んでいない"ものの意味について議論する時間を無駄にできないだろうか?彼女は明らかに{i}意識があり{/i}、明らかにあなたにドアをバタンと閉め、明らかに武器を持っています-{i}あなたの{/i}手つかずの刃物が彼女の胸から突き出ています.これは非常に悪いことです.壊滅的でさえあります.\n"
+                 ^
+
+File "game/scripts/paths/_joint/wild/wild_start.rpy", line 233: end of line expected.
+    contrarian "確かに、"お姫様と一緒にいる"ことはとても素晴らしいことですが、今私たちにできることは何ですか?私たちがこのようにただ受動的に{i}存在する{/i}ことになっていないことを願っています.私たちが自分の死を偽装したとき、私は受動的な存在に登録しませんでした.\n"
+                     ^
+
+File "game/scripts/paths/_joint/wild/wild_start.rpy", line 253: end of line expected.
+    n "私は"あなたを見ている"のではありません.私はあなたを助けようとしています.\n"
+          ^
+
+File "game/scripts/paths/_joint/wild/wild_start.rpy", line 280: end of line expected.
+    n "私はしません.私はあなたに{i}彼女{/i}を殺してほしいです.彼女の見せかけの連帯に魅せられないでください.あなたは"一緒にいる"のではありません.\n"
+                                                                   ^
+
+File "game/scripts/paths/_joint/wraith/wraith_start.rpy", line 95: end of line expected.
+    opportunist "ほら、それは私があまりよくわからない最後の部分です.私たちは今2回"終わった".私たちは彼女を1回終わらせたことさえありましたが、それは問題ではありませんでした!なぜなら、それはまだ私たちをこれらの森に投げ戻したからです.\n"
+                                                   ^
+
+File "game/scripts/paths/_joint/wraith/wraith_start.rpy", line 113: end of line expected.
+    hero "彼女の"影響."?\n"
+              ^
+
+File "game/scripts/paths/_joint/wraith/wraith_start.rpy", line 144: end of line expected.
+    n "ここにいる誰もあなたを"からかっている"わけではありませんし、あなたが王女を殺した後に"やり直し"たようなシナリオは想像できません.\n"
+                   ^
+
+File "game/scripts/paths/_joint/wraith/wraith_start.rpy", line 223: end of line expected.
+    n ""私"はあなたに会ったことはありませんが、あなたは明らかに"私"に会ったことがあります.私には、あなたが平行した現実の間を行ったり来たりしているように聞こえます.その場合、あなたがここで会った"私"は、あなたが他のすべての始まりで会った"私"と同じ経験のコレクションですが、それらの連続性は、あなたが何かを言ったりした瞬間を中断し、事実上、それらをすべて別々にします.\n"
+        ^
+
+File "game/scripts/paths/_joint/wraith/wraith_start.rpy", line 225: end of line expected.
+    n "そうです.私は同じ"私"ですが、私たちが話を始めた瞬間から私は違います."
+                 ^
+
+File "game/scripts/paths/_joint/wraith/wraith_start.rpy", line 243: end of line expected.
+    n "常に選択肢があることを知っておきましょう.たとえあなたが"無限"のループに閉じ込められていたとしても、無限の本質だけがあなたに特定の選択を強いると考える理由はありません.あなたには自由意志があります.そうしなければ物事は簡単になりますが、あなたは正しい選択を永遠に続け、決して逸脱することはありません."
+                                    ^
+
+File "game/scripts/paths/_joint/wraith/wraith_start.rpy", line 431: end of line expected.
+    paranoid "もちろん、"鏡はありません".前回も"鏡はありません"でしたが、なぜ今回はそこにあるのでしょうか.\n"
+                    ^
+
+File "game/scripts/paths/_joint/wraith/wraith_start.rpy", line 472: end of line expected.
+    cold "彼は"ドア"とは言いませんでしたね."
+             ^
+
+File "game/scripts/paths/_joint/wraith/wraith_start.rpy", line 487: end of line expected.
+    n "そこには何もないことを保証させてください.何も"あなたに飛び出す"ことはありませんし、もちろん王女もありません.王女は地下室にいます."
+                               ^
+
+File "game/scripts/paths/_joint/wraith/wraith_start.rpy", line 866: end of line expected.
+    n "そして、彼女と一緒にあなたをつぶすのですか?私が"岩をあらわす"ことさえできるわけではありません.それに、私はあなた方全員が王女を解放したいと思っていると思っていました.\n"
+                                ^
+
+File "game/scripts/paths/_joint/wraith/wraith_start.rpy", line 971: end of line expected.
+    opportunist "いいですか、私が言っているのは、"その後に何が起ころうとも"は大変な管理業務になるということだけです.あなたはそれを一人でやりたくないのですね!そして、私、いや、私たち{/b}は、あなたが知っている唯一の人です.あなたがしようとしていることをあなたが一度やったら、おそらく生き残った唯一の人です.だから、あなたは私たちを雇わなければなりません.\n"
+                                  ^
+
+File "game/scripts/paths/adversary/adversary_1/adversary_1_blade.rpy", line 698: is not terminated with a newline. (Check strings and parenthesis.)
+(Perhaps you left out a " at the end of the first line.)
+                        "{i}• ''プリンセス・キャント・ダイ"のような意味ですよね?まあ、それには遅すぎます.私たちは皆、それを考えたと思います.{/i}":
+
+File "game/scripts/paths/adversary/adversary_1/adversary_1_shared.rpy", line 350: is not terminated with a newline. (Check strings and parenthesis.)
+(Perhaps you left out a " at the end of the first line.)
+            "{i}• ''私たちが最後に会ってからあなたに何があったのか知らないが、私は巨大な悪魔の女と戦っている{b}ではない{/b}.さようなら!"[[向きを変えて去る.]{/i}" if adversary_can_fury:
+
+File "game/scripts/paths/adversary/adversary_1/adversary_1_start.rpy", line 273: end of line expected.
+    stubborn ""嘘"や"カンニング"は彼女のようには聞こえません.それは問題ではありません.彼女がけんかの最中に嘘をついたり、カンニングしたりできるわけではありません."
+               ^
+
+File "game/scripts/paths/adversary/adversary_2/adversary_2_start.rpy", line 38: end of line expected.
+    hunted ""いいえ、でもその場所は私たちよりも彼女によく合っています.彼女は大きいので、私たちはそこに穴や開口部を見つけることを望むことはできません.私たちが生き残るためには、私たちはもっとスペースが必要です.\n""
+             ^
+
+File "game/scripts/paths/adversary/adversary_2/adversary_2_start.rpy", line 78: end of line expected.
+    n ""何が起こっているのか"とは、あなたがすでにここにいて、見るべきではなかったものをすでに見ていた場合にのみ、あなたが言っていたことを言っているということです.\n"
+        ^
+
+File "game/scripts/paths/adversary/adversary_2/adversary_2_start.rpy", line 110: end of line expected.
+    n "あなたは、世界はあなたが今まで見てきたものとは"違う"と自分に言い聞かせました.そうであるべきではありませんし、物事が変化しているのであれば、それらは悪化しています.それはここでの物事の仕組みです.これをあなたの最後の試みのように扱ってください.\n"
+                               ^
+
+File "game/scripts/paths/adversary/adversary_2/adversary_2_start.rpy", line 387: end of line expected.
+    skeptic "あなたは本当に鏡を見ることができないのですか、それともそれが存在しないふりをしているのですか?あなたの別の"ルール"の1つ?\n"
+                                                                   ^
+
+File "game/scripts/paths/adversary/adversary_2/adversary_2_start.rpy", line 697: end of line expected.
+    sp "またこれ!"自由"とは何を意味するのか?"ここ"と"そこ"は関係ない.私はいつも体の中にいる.私はいつも1つの場所にいる.\n"
+              ^
+
+File "game/scripts/paths/beast/beast_1/beast_1_encounter.rpy", line 128: is not terminated with a newline. (Check strings and parenthesis.)
+(Perhaps you left out a " at the end of the first line.)
+                            spmid "私があなたを殺した時、私はこの場所を去ろうとしましたが、それは私を許してくれませんでした.''あなたはそこに属しています"とそれは私に叫んだ.''世界はあなたがいない方が良い.''"
+
+File "game/scripts/paths/beast/beast_1/beast_1_start.rpy", line 144: is not terminated with a newline. (Check strings and parenthesis.)
+(Perhaps you left out a " at the end of the first line.)
+                            "{i}• (탐구)前回のあなたの言葉を引用すると、"彼女は{i}ただの{/i}王女です.''なぜ彼女は素手で私を引き裂くことができたのですか?{/i}" if beast_1_forest_princess_why_strong == False:
+
+File "game/scripts/paths/beast/beast_2/beast_2.rpy", line 238: end of line expected.
+    hero ""暴力を行使する"ことが計画としてカウントされるかどうかはわかりません.\n"
+           ^
+
+File "game/scripts/paths/beast/beast_2/beast_2.rpy", line 298: end of line expected.
+    n "注目すべき唯一の"家具"は、それをそう呼ぶことができるとすれば、結び目のある切り株であり、その露出した輪に埋め込まれた手つかずの刃物である."
+                ^
+
+File "game/scripts/paths/beast/beast_2/beast_2.rpy", line 388: end of line expected.
+    n ""それ"があるとしても、それは幻覚です.あなたが言ったように、あなたは前に2度ここにいました.あなたの心は最終的にあなたにいたずらを始めることになっていました."
+        ^
+
+File "game/scripts/paths/beast/beast_2/beast_2.rpy", line 477: end of line expected.
+    n "声を頭の後ろに置いて、"階段"を下ります."
+                   ^
+
+File "game/scripts/paths/beast/beast_2/beast_2.rpy", line 489: Only one say menuitem may exist per menu.
+    "{i}• [[何も言わず、静かに"階段"を降りてください.{/i}":
+                                       ^
+
+File "game/scripts/paths/beast/beast_2/beast_2.rpy", line 524: end of line expected.
+    n "彼女は返事をしません.それは彼女の答えが"はい"であることを意味すると私は推測します.\n"
+                            ^
+
+File "game/scripts/paths/beast/beast_2/beast_2.rpy", line 530: end of line expected.
+    n "彼女は反応しません.彼女はあなたが実際に"これをしなければならない"と思っているようです.\n"
+                            ^
+
+File "game/scripts/paths/beast/beast_2/beast_2.rpy", line 611: end of line expected.
+(Perhaps you left out a " at the end of the first line.)
+    truth "しかし、彼は反応しません.解き放たれた世界のテクスチャのない糸から目があなたを見つめます.''私は自由ですか?"と彼らは尋ねます."
+                                                                   ^
+            #voice "audio/voices/ch3/den/hunted/17.wav"
+            #hunted "すべてが失われました.彼女を見ることができます.\n"
+            play audio "audio/final/assorted_Handsgrabbing_LIGHT_1.wav"
+            show arms den erupt onlayer front at Position(ypos=1125)
+            show den erupt quiet onlayer inyourface at Position(ypos=1125)
+            with Dissolve(2.0)
+            $ renpy.pause(0.125)
+            hide arms onlayer front
+            show arms den erupt quiet2 onlayer front at Position(ypos=1125)
+            with dissolve
+            $ renpy.pause(0.125)
+            hide den onlayer inyourface
+            hide arms onlayer front
+            show arms den erupt quiet3 onlayer front at Position(ypos=1125)
+            with dissolve
+            $ renpy.pause(0.125)
+            hide arms onlayer front
+            show arms den erupt quiet4 onlayer front at Position(ypos=1125)
+            with dissolve
+            $ renpy.pause(0.125)
+            hide arms onlayer front
+            with dissolve
+            $ renpy.pause(0.125)
+            hide stars onlayer farback
+            hide bg onlayer back
+            hide quiet onlayer front
+            show farback quiet onlayer farback at Position(ypos=1125)
+            with Dissolve(4.0)
+            show mirror quiet distant onlayer back at Position(ypos=1125)
+            if loops_finished != 0:
+                truth "しかし、あなたには返事をする機会がありませんし、今後もありません.出発の時間です.メモリが戻ります.\n"
+            else:
+                truth "しかし、あなたには返事をする機会がありません.何かが彼女を連れ去り、彼女の代わりに何かを残しました.\n"
+            $ beast_2_end == "fight_succeed"
+            $ blade_held = False
+            $ default_mouse = "default"
+            $ princess_kept += 1
+            $ princess_deny += 1
+            jump mirror_start
+            # END
+        else:
+            voice "audio/voices/ch3/den/hero/17.wav"
+            hero "失敗しました.\n"
+            if trait_stubborn:
+                voice "audio/voices/ch3/den/stubborn/21.wav"
+                stubborn "私たちはこれをすることができます.武器がなくても.私は血なまぐさい拳を知らないわけではありません.\n"
+            else:
+                if blade_held == False:
+                    voice "audio/voices/ch3/den/skeptic/28.wav"
+                    skeptic "私は知っています.これは計画の一部ではありませんでした.私たちは武器を持って準備してここに来ることになっていました.ああ、何の役に立つのですか.\n"
+                else:
+                    voice "audio/voices/ch3/den/skeptic/28a.wav"
+                    skeptic "私は知っています.これは計画の一部ではありませんでした.私たちは準備してここに来ることになっていました.ああ、何の役に立つのですか.\n"
+            voice "audio/voices/ch3/den/narrator/46a.wav"
+            stop music fadeout 10.0
+            stop sound fadeout 20.0
+            play secondary "audio/music/full/The Long Quiet Soft FINAL.ogg" loop fadein 20.0
+            play audio "audio/final/den_roar_final.wav"
+            voice "audio/voices/ch3/den/narrator/46.wav"
+            hide bg onlayer farback
+            hide bg onlayer back
+            hide den onlayer front
+            show bg den fight end onlayer back at Position(ypos=1125)
+            show quiet creep1 onlayer front at Position(ypos=1125)
+            show den fight end onlayer inyourface at Position(ypos=1125)
+            with Dissolve(2.0)
+            n "王女が現れたとき、あなたは歯と目の形をかろうじて理解し、巨大な口を開けて、あなた全体を飲み込む準備をしています-\n"
+            voice "audio/voices/ch3/den/hero/16.wav"
+            show quiet creep2 onlayer front at Position(ypos=1125)
+            with Dissolve(2.0)
+            hero "그리고...?\n"
+            show quiet creep3 onlayer front at Position(ypos=1125)
+            show den erupt recognize onlayer inyourface
+            with Dissolve(2.0)
+            truth "しかし、彼は反応しません.解き放たれた世界のテクスチャのない糸から目があなたを見つめます.''私は自由ですか?"と彼らは尋ねます."
+
+File "game/scripts/paths/beast/beast_2/beast_2.rpy", line 831: end of line expected.
+    n "彼女の目はあなたを見上げています.広い.懇願しています.''戻ってきて"と彼らが言っているのが想像できます.''私をここに置き去りにしないで!"しかし、打ち負かされた敵の悲しい目に耳を傾けるべきではありません.彼女はあなたと場所を変えること以上の何も望んでいません."
+                                           ^
+
+File "game/scripts/paths/beast/beast_2/beast_2.rpy", line 833: end of line expected.
+    hero "もしあなたが私たちに彼女を無視してほしいなら、なぜあなたは私たちに、そもそも"慈悲を懇願する広くて嘆願的な目"のビジネスについて話すのですか?それは私たちを葛藤させるだけです.\n"
+                                                 ^
+
+File "game/scripts/paths/damsel/damsel_1/damsel_1_encounter.rpy", line 476: is not terminated with a newline. (Check strings and parenthesis.)
+(Perhaps you left out a " at the end of the first line.)
+                    n "当ててみましょう.''世界を終わらせる?"\n"
+
+File "game/scripts/paths/damsel/damsel_1/damsel_1_start.rpy", line 114: end of line expected.
+    n "とにかく、あなたの2番目の質問は"何かをすることに何の意味があるのか?"だったと思います.もしあなたがそれを尋ねているのであれば、前回のあなたの行動は何の結果ももたらさなかったという、かなり危険な仮定をしているように私には聞こえます.\n"
+                        ^
+
+File "game/scripts/paths/nightmare/nightmare_1/nightmare_1_start.rpy", line 129: is not terminated with a newline. (Check strings and parenthesis.)
+(Perhaps you left out a " at the end of the first line.)
+                    n "そして、それは表面を引っ掻いているだけです.もしあなたの言ったことが本当なら、あなたはどうやってここに戻ったのかという疑問が湧いてきます.''時間"は単に巻き戻されただけなのか、それともあなたは全く別の世界にいることに気づいたのか?もし後者なら、あなたが死んだ{i}後に{/i}何が起こったと思いますか?\n"
+
+File "game/scripts/paths/nightmare/nightmare_1/nightmare_encounter.rpy", line 218: is not terminated with a newline. (Check strings and parenthesis.)
+(Perhaps you left out a " at the end of the first line.)
+                sp ""いや、そんなことはありません.もしあなたが私がこの場所を離れる必要がある人なら、あなたはかなり役に立つ可能性があります.私はあなたを私のそばに置いておこうと思います.私が自由にいられるようにするために、ちょっとした幸運のお守りです.''"
+
+File "game/scripts/paths/nightmare/nightmare_2/nightmare_2_start.rpy", line 182: end of line expected.
+    stubborn "うわー.また"哲学"に行きましたね.どこにも行きません.\n"
+                     ^
+
+File "game/scripts/paths/nightmare/nightmare_2/nightmare_2_start.rpy", line 185: end of line expected.
+    contrarian "はい、あなたが私たちに意識について尋ねたのは、これが初めてではありません.''私は誰ですか?";"私は何ですか?";"私は何ですか?""誰が気にしますか?\n"
+                                                               ^
+
+File "game/scripts/paths/nightmare/nightmare_2/nightmare_2_start.rpy", line 400: end of line expected.
+    n ""小屋"の境界を少し越えたところで、ためらいながら丘を登ります."
+        ^
+
+File "game/scripts/paths/nightmare/nightmare_2/nightmare_2_start.rpy", line 448: end of line expected.
+    n ""小屋"の内部は"小屋"の外部とほとんど同じで、退屈でぼやけていて、夢のようなものは何もない.空で孤立しているが、その中の構造を示唆するのに十分な漠然とした形と未知の質感があり、それは間違っていて不安なものかもしれない."
+        ^
+
+File "game/scripts/paths/prisoner/prisoner_1/prisoner_1_encounter.rpy", line 655: is not terminated with a newline. (Check strings and parenthesis.)
+(Perhaps you left out a " at the end of the first line.)
+        n ""いいですよ.シャックルを持ち上げると、その重さがあなたの手の中で移動します.まるで奇妙な磁気に引っ張られているかのようです.まばたきさえできないうちに、それは実際にあなたの手から飛び出して、あなたの首の周りにパチンと音を立てます.''"
+
+File "game/scripts/paths/prisoner/prisoner_1/prisoner_1_start.rpy", line 106: end of line expected.
+    n "{i}한숨{/i}.しかし、これは思考実験なので、私はあなたに疑いの利益を与え続けると思います.もし私が"実質的に王女にあなたを殺すよう強制した"のなら、それはおそらく正当な理由があったのでしょう.あなたは彼女を解放しようとしましたか?あなたは私にとって本当に{i}{/i}意味のあることを言ったのですか?なぜなら、もし私があなたが言ったことを本当にしたのなら、あなたはおそらくそれに値するからです.結局、私はプロです.\n"
+                                                            ^
+
+File "game/scripts/paths/prisoner/prisoner_1/prisoner_1_start.rpy", line 110: end of line expected.
+    n "とにかく、あなたの2番目の質問は"何かをすることに何の意味があるのか?"だったと思います.もしあなたがそれを尋ねているのであれば、前回のあなたの行動は何の結果ももたらさなかったという、かなり危険な仮定をしているように私には聞こえます.\n"
+                        ^
+
+File "game/scripts/paths/prisoner/prisoner_1/prisoner_1_start.rpy", line 170: end of line expected.
+    n "その中には、あなたの手書きのメモがあります.それには、"あなたが彼女を止めなければ、王女は世界を終わらせるでしょう.これは不変の真実です"と書かれています."
+                                   ^
+
+File "game/scripts/paths/prisoner/prisoner_1/prisoner_1_start.rpy", line 269: end of line expected.
+    n "今、大きな声で"ウィンク"と言いましたか?\n"
+               ^
+
+File "game/scripts/paths/prisoner/prisoner_1/prisoner_1_start.rpy", line 326: end of line expected.
+    skeptic "彼は絶対にしなかった.鏡はあなたにとって"重要な家具"としてカウントされないのですか?なぜなら、それはカウントされるべきだからです.\n"
+                                  ^
+
+File "game/scripts/paths/prisoner/prisoner_1/prisoner_1_start.rpy", line 474: end of line expected.
+    n "私たちはまだ過去の人生の妄想を持っていますか?その計画の一部が、"世界を終わらせる怪物を唯一の武器にしない"ことであることを願っています.なぜなら、あなたが王女に武器を与えることを決めていない限り、彼女が武器を持っていることについて心配する必要はないと思うからです."
+                                        ^
+
+File "game/scripts/paths/prisoner/prisoner_1/prisoner_1_start.rpy", line 583: end of line expected.
+    n "今、自分の声が聞こえますか?"ここから彼女を切り取る"は、決してテーブルの上にあるべきではなかった.\n"
+                      ^
+
+File "game/scripts/paths/razor/razor_1/razor_1_basement.rpy", line 10: end of line expected.
+    n ""前回?"何を言ってるの?\n"
+        ^
+
+File "game/scripts/paths/razor/razor_1/razor_1_basement.rpy", line 16: end of line expected.
+    n "はい.何かが明らかに"アップ"していて、私たちは皆、彼女が嘘をついていることを知ることができます.しかし、彼女が嘘をついているのは、彼女がどれほど危険であるかということであり、"次元ホッピング"や"タイムトラベル"など、あなたがしていると思っていることではありません."
+                  ^
+
+File "game/scripts/paths/razor/razor_1/razor_1_basement.rpy", line 597: end of line expected.
+    cheated ""手の届くところにある"というあなたの言い方が気に入りません.\n"
+              ^
+
+File "game/scripts/paths/razor/razor_1/razor_1_basement.rpy", line 684: end of line expected.
+    cheated ""わかりました.彼女はまだナイフを抜いていません.そして彼女の手はまだ背中の後ろにあります.私たちはこれをすることができると思います.私たちは勝つことができると思います.私たちは今打つ必要がありますが、あなたがそれらの手から目を離さないようにしてください.私は彼女を一瞬も信用しません.\n""
+              ^
+
+File "game/scripts/paths/razor/razor_1/razor_1_start.rpy", line 55: end of line expected.
+    cheated "ええ、それはまさにあなたが前回私たちに言ったことです.彼女が武器を持っていないと確信しているかと私たちがあなたに尋ねた時、あなたは彼女が持っていないと"確信している"と言った.\n"
+                                                                                         ^
+
+File "game/scripts/paths/razor/razor_1/razor_1_start.rpy", line 145: end of line expected.
+    n "少なくともあなたは彼女を信用しないことを知っていますが、"すべてのものとすべての人"にはあなたが含まれていることを理解していますよね?もしあなたが振り返って去るなら、あなたは他のすべての人と同じように自分自身を破滅させることになります.\n"
+                                    ^
+
+File "game/scripts/paths/razor/razor_1/razor_1_start.rpy", line 207: end of line expected.
+    cheated "ここで"特別な"人がいるとすれば、それは彼女だ.最後に確認したのは、胸のナイフから立ち上がることができないことです.\n"
+                 ^
+
+File "game/scripts/paths/razor/razor_1/razor_1_start.rpy", line 210: end of line expected.
+    cheated "ここで"特別な"人がいるとすれば、それは彼女です.それは彼女が私たちに仕掛けた意地悪なトリックでした."
+                 ^
+
+File "game/scripts/paths/razor/razor_2/razor_2_nexus.rpy", line 1547: end of line expected.
+    contrarian "はい、その通りです!私たちに何ができるか誰が知っていますか?私たちが知っている限りでは、"刃物"が私たちを妨げていました.\n"
+                                                             ^
+
+File "game/scripts/paths/razor/razor_2/razor_2_nexus.rpy", line 1594: end of line expected.
+    n "あなたが反応する前に、彼女は自分のパンチを返しますが、それは実際には"パンチ"ではありません.\n"
+                                          ^
+
+File "game/scripts/paths/razor/razor_2/razor_2_start.rpy", line 94: end of line expected.
+    paranoid "これらの"世界"が現実である場合、それはあまりにも大きな責任です.\n"
+                   ^
+
+File "game/scripts/paths/razor/razor_2/razor_2_start.rpy", line 206: end of line expected.
+    n "部屋の端のドアに向かって、その前で止まります.あなたは本当に"鏡"を見ていると思っているに違いありません.まあ、それは存在しません.{i}한숨.{/i}前に手を伸ばして開けてください.\n"
+                                      ^
+
+File "game/scripts/paths/razor/razor_2/razor_final.rpy", line 393: end of line expected.
+    truth "何度も何度も彼女は"あなた"に向かってスイングしますが、実際にスイングする"あなた"はありませんでした."
+                     ^
+
+File "game/scripts/paths/spectre/spectre_1/spectre_1_start.rpy", line 166: is not terminated with a newline. (Check strings and parenthesis.)
+(Perhaps you left out a " at the end of the first line.)
+                                n "そして、彼女を殺しても世界は終わらないと断言させてください.''前回"あなたに何があったとあなたが思っているのか私にはわかりませんが、それはばかげたことです.あなたはハッピーエンドになると私は約束します.\n"
+
+File "game/scripts/paths/spectre/spectre_1/spectre_encounter.rpy", line 163: end of line expected.
+    n ""後"とはどういう意味ですか?\n"
+        ^
+
+File "game/scripts/paths/spectre/spectre_1/spectre_encounter.rpy", line 211: end of line expected.
+    cold "彼女は物事を現実的に見ています.私たちも同じことをすべきです.現実は私たちの目の前にあるものであり、それが何であるべきかという先入観ではありません.静的な"真実"がある必要はありません.客観性がある必要はありません."
+                                                                                        ^
+
+File "game/scripts/paths/spectre/spectre_1/spectre_encounter.rpy", line 315: end of line expected.
+    n "だから、"物事を正そう"としないでください.彼女は世界を終わらせようとしていました.あなたは何も悪いことをしていません.明らかに自殺したことを除いて、それは彼女とはあまり関係ありません."
+            ^
+
+File "game/scripts/paths/spectre/spectre_1/spectre_encounter.rpy", line 369: end of line expected.
+    n "誰も"あなたをだました"わけではありません.他の私は、あなたが賢明に行動することを選んだ完全に正確な情報をあなたに提供したと確信しています.\n"
+          ^
+
+File "game/scripts/paths/spectre/spectre_1/spectre_encounter.rpy", line 373: end of line expected.
+    n "誰も"あなたをだました"わけではないし、王女の霊が死からよみがえったという事実は、彼女が必ずしも甘くて無実ではないという十分な証拠になるはずだ.それはすべて行為だった.彼女はふりをしている."
+          ^
+
+File "game/scripts/paths/spectre/spectre_1/spectre_encounter.rpy", line 385: end of line expected.
+    n "それは問題ではありません.唯一重要なことは、誰も"あなたをだました"わけではないということです.私はあなたに完全に正確な情報を提供するだけでした.そして、あなたが他の世界で会った私のバージョンが何であれ、あなたにも正確な情報を提供したと確信しています.\n"
+                                ^
+
+File "game/scripts/paths/spectre/spectre_1/spectre_encounter.rpy", line 389: end of line expected.
+    n "なぜなら、あなたが会った他の私はまだ私であり、{i}私{/i}は"あなたをだました"ことも、将来あなたをだましたいと思ったこともないからです.\n"
+                                        ^
+
+File "game/scripts/paths/spectre/spectre_1/spectre_encounter.rpy", line 451: end of line expected.
+    n ""出ていない"と"出られない"はまったく別のものです.\n"
+        ^
+
+File "game/scripts/paths/spectre/spectre_1/spectre_encounter.rpy", line 561: end of line expected.
+    n "今、あなたが彼女を楽しませているなんて信じられません.つまり、彼女を見てください、彼女は"殺人者の体"に対して善意を持っていると思いますか?もちろん、彼女はそうではありません!"
+                                                    ^
+
+File "game/scripts/paths/spectre/spectre_1/spectre_encounter.rpy", line 643: end of line expected.
+    p "私はあなたが"なぜ"または"どのように"であるかにはあまり興味がなく、あなたが"何"であるかにもっと興味があります.\n"
+              ^
+
+File "game/scripts/paths/spectre/spectre_1/spectre_encounter.rpy", line 953: end of line expected.
+    hero "わかりました.では、彼女を殺し、私たち自身を殺すという"行為"が、私たちをどこにも連れて行っていないことを"観察"させてください.私たちはまだこの小屋に戻っていて、私たちはまだ彼女と取引しています.今だけ彼女には私たちを憎む正当な理由があります."
+                                      ^
+
+File "game/scripts/paths/spectre/spectre_1/spectre_encounter.rpy", line 1197: end of line expected.
+    hero "いいえ、それは重要です!私たちが何であるかが重要です!もし私が"割れたガラスの破片"であるなら、それはここにある他の特定の"声"についてもいくつかの疑問を提起します.\n"
+                                          ^
+
+File "game/scripts/paths/spectre/spectre_1/spectre_encounter.rpy", line 1720: end of line expected.
+    n "次に何が起こるかを最初に聞いたり感じたりするかどうかはわかりませんが、"それ"が何であるかを完全に概念化する前に終わります.\n"
+                                           ^
+
+File "game/scripts/paths/spectre/spectre_1/spectre_hostile.rpy", line 152: is not terminated with a newline. (Check strings and parenthesis.)
+(Perhaps you left out a " at the end of the first line.)
+                                cold "なんて奇妙なことを言うんでしょう.''運命は死よりも悪い"という言い回しではないですか?"
+
+File "game/scripts/paths/stranger/stranger_1/stranger_1_cabin.rpy", line 35: end of line expected.
+    contrarian "オホホ!あなたは私の興味をそそりました.私たちが"自分を失った"場合はどうなりますか?\n"
+                                         ^
+
+File "game/scripts/paths/stranger/stranger_1/stranger_1_cabin.rpy", line 528: end of line expected.
+    n ""また?"ここに来たことがありますか?"
+        ^
+
+File "game/scripts/paths/stranger/stranger_1/stranger_1_cabin.rpy", line 534: end of line expected.
+    hero "そうだ.彼に言ってるんだ.ええ、私たちは"前にここにいた"ことがあります.でも、私たちは小屋に行ったことはありません.私たちはただ.向きを変えて去っただけです.\n"
+                               ^
+
+File "game/scripts/paths/stranger/stranger_1/stranger_1_cabin.rpy", line 542: end of line expected.
+    n "最後にここにいた時、あなたは"世界は終わった"と言いましたよね?"
+                      ^
+
+File "game/scripts/paths/stranger/stranger_1/stranger_1_cabin.rpy", line 1202: end of line expected.
+    p "あなたは真実を求めていますか、それとも"正しい"答えを求めていますか?\n"
+                           ^
+
+File "game/scripts/paths/stranger/stranger_1/stranger_1_cabin.rpy", line 1246: end of line expected.
+    p "私は森で静かな生活を送ること、孤児院を開くこと、あるいはあなたが聞きたいと思っていると確信している他のいくつかの"良い"ことをすることをあなたに言うことができます.\n"
+                                                                ^
+
+File "game/scripts/paths/stranger/stranger_1/stranger_1_cabin.rpy", line 1269: end of line expected.
+    p "私は森で静かな生活を送ること、孤児院を開くこと、あるいはあなたが聞きたいと思っていると確信している他のいくつかの"良い"ことをすることをあなたに言うことができます.\n"
+                                                                ^
+
+File "game/scripts/paths/stranger/stranger_1/stranger_1_start.rpy", line 79: end of line expected.
+    n "前回?最後に確認したところ、"前回"はありませんでした.お会いしたばかりです、あなたと私.\n"
+                      ^
+
+File "game/scripts/paths/stranger/stranger_1/stranger_1_start.rpy", line 116: end of line expected.
+    n "もちろん、それを終わらせたのは彼女でした.そして、あなたのもう一つの質問は、"何かをすることに何の意味があるのか?"というようなものだったと思います.もしあなたがそれを尋ねているのであれば、あなたは前回のあなたの行動が何の結果ももたらさなかったというかなり危険な仮定をしているように私には聞こえます.\n"
+                                              ^
+
+File "game/scripts/paths/tower/tower_1/tower_1_convo.rpy", line 39: end of line expected.
+    n "そうですね.でも、なぜ彼女は"私たちが最後に会った時"と言ったのですか?それは正しくありません.それは正しくあり得ません."
+                      ^
+
+File "game/scripts/paths/tower/tower_1/tower_1_convo.rpy", line 84: end of line expected.
+    n ""最後に会ったのは?"それは森の中での私たちの会話に信憑性を与えると思う.でも、何をするにしても、なぜここにいるのか彼女に言わないで.彼女に何のアイデアも与えないのが一番だ."
+        ^
+
+File "game/scripts/paths/tower/tower_1/tower_1_convo.rpy", line 87: end of line expected.
+    n ""最後に会ったのは?"\n"
+        ^
+
+File "game/scripts/paths/tower/tower_1/tower_1_convo.rpy", line 89: end of line expected.
+    n "これより前に誰も彼女に"会う"べきではありませんでした.あなたが最初になるべきです.彼女と取引するために私が信頼しているのはあなただけです.\n"
+                   ^
+
+File "game/scripts/paths/tower/tower_1/tower_1_convo.rpy", line 687: end of line expected.
+    n "あなたは"英雄的な"人です!あなたは何をしているのですか?こんなことをさせないで.彼があなたを殺すのを止めて!\n"
+            ^
+
+File "game/scripts/paths/tower/tower_1/tower_1_start.rpy", line 277: end of line expected.
+    n ""彼女を救う?"状況の重大さを考えると、"彼女を救う"ことと"彼女に自分を誓う"ことの間に実際の違いはありません.どちらもひどいものです.\n"
+        ^
+
+File "game/scripts/paths/tower/tower_1/tower_1_start.rpy", line 520: end of line expected.
+    hero "당신이 "우렁차다"고 한 게 농담이 아녔군요. 지난번에는 이렇지 않았는데.\n"
+               ^
+
+File "game/scripts/paths/tower/tower_2/tower_2.rpy", line 126: is not terminated with a newline. (Check strings and parenthesis.)
+(Perhaps you left out a " at the end of the first line.)
+                        n "しかし、すでに大きく恐ろしい変化が起きています.足元の地面が揺れ、自分や周囲を引っ張る不屈の力を感じます.''木"が揺れ始め、それから崩れ、すべてが小屋に引き寄せられるにつれてばらばらになります."
+
+File "game/scripts/paths/witch/witch_1/witch_1_encounter.rpy", line 208: end of line expected.
+    sp "あなたは自分の意志で私の小屋に入ったのではないと思います、あなたは?わかった.私は."チームを組む"ことができると思います.結局、私には出口が必要なのですが、残念ながら私にはあなたしかいません.\n"
+                                                   ^
+
+File "game/scripts/paths/witch/witch_1/witch_1_encounter.rpy", line 214: end of line expected.
+    n ""相互に"という言葉の意味を知っていますか?なぜなら、私には、彼女が彼女だけに利益をもたらす取り決めを提供しているように聞こえるからです.\n"
+        ^
+
+File "game/scripts/paths/witch/witch_1/witch_1_encounter.rpy", line 307: end of line expected.
+    n "それは、"刺す"や"後ろに"のような言葉の定義にもよると思います.彼女は文字通りにはそうしないかもしれませんが、象徴的には同じことをすることができます."
+            ^
+
+File "game/scripts/paths/witch/witch_1/witch_1_encounter.rpy", line 552: end of line expected.
+    sp "そうですか?あなたの"ジェスチャー"を取り消すことに決めましたか?私もそれを信用しません.\n"
+                   ^
+
+File "game/scripts/paths/witch/witch_1/witch_1_encounter.rpy", line 968: end of line expected.
+    hero "少なくとも、彼女は"自分で何かを作る"つもりもない."
+                    ^
+
+File "game/scripts/paths/witch/witch_1/witch_1_encounter.rpy", line 1290: end of line expected.
+    opportunist "それは刃物ですよね?私たちが上の階に着いたら、それをつかむようにあなたに言うつもりでした.それは"目を開けたままにする"ということでした.そして、あなたは彼女の背中を刺し、私たちは勝者になっていたでしょう!\n"
+                                                                  ^
+
+File "game/scripts/paths/witch/witch_1/witch_1_encounter.rpy", line 1613: end of line expected.
+    spmid ""もちろん違います.私たちの性質上、私たちの一人だけが無傷で上の階に行くことができました.誰かが最初に行動しなければなりませんでした.もし私にチャンスがあったら、私はまたあなたをこの地下室に閉じ込めていたでしょう.\n""
+            ^
+
+File "game/scripts/paths/witch/witch_1/witch_1_encounter.rpy", line 1618: end of line expected.
+    spmid ""もちろん違います.私たちの性質上、私たちの一人だけが無傷で上の階に行くことができました.誰かが最初に行動しなければなりませんでした.もし私にチャンスがあったら、私はあなたをこの地下室に閉じ込めていたでしょう.\n""
+            ^
+
+File "game/scripts/paths/witch/witch_1/witch_1_encounter.rpy", line 1688: end of line expected.
+    opportunist "ほら、これが私が彼女に最初に行ってほしかった理由です.私は、彼女が私たちに背を向けるこの小さな計画全体を計画していました.そして私は"今、彼女の背中を刺してください!今すぐそれをしてください!"と言いました."
+                                                                                    ^
+
+File "game/scripts/paths/witch/witch_1/witch_1_encounter.rpy", line 1691: end of line expected.
+    opportunist "ほら、これが私が彼女に最初に行ってほしかった理由です.私はこの小さな計画全体を計画していました.彼女が上の階のテーブルのそばを通り過ぎたら、私は"今、刃物を拾い上げて彼女の背中を刺す"と言ったでしょう."
+                                                                                          ^
+
+File "game/scripts/paths/witch/witch_1/witch_1_encounter.rpy", line 1693: end of line expected.
+    opportunist "そして、あなたは"わあ、それは私が来るのを見たことのない素晴らしいアイデアです.私たちのために注意してくれてありがとう!"のようなことを言うでしょう."
+                          ^
+
+File "game/scripts/paths/witch/witch_1/witch_1_encounter.rpy", line 1970: end of line expected.
+    hero "少なくとも、彼女は"自分で何かを作る"つもりもない."
+                    ^
+
+File "game/scripts/paths/witch/witch_1/witch_1_start.rpy", line 180: is not terminated with a newline. (Check strings and parenthesis.)
+(Perhaps you left out a " at the end of the first line.)
+                            "{i}• (탐구)前回のあなたの言葉を引用すると、"彼女は{i}ただの{/i}王女です.''なぜ彼女は素手で私を引き裂くことができたのですか?{/i}" if witch_1_forest_princess_why_strong == False and loop_1_locked == False:
+
+File "game/scripts/paths/witch/witch_2/witch_2_start.rpy", line 63: end of line expected.
+    hero "ええ、私たちは知っています.私たちが出血している間に、あなたはすでに"私が送ったsos"を受け取っていました.\n"
+                                             ^
+
+File "game/scripts/paths/witch/witch_2/witch_2_start.rpy", line 71: end of line expected.
+    smitten ""喜んで、親愛なる友よ.傷つきやすい瞬間に王女を残酷に攻撃することで、私たちは自分たちを敵にしました.しかし、私たちの恐怖と不安を克服し、私たちの力を引き渡すことで、私たちははるかに深い何かへの旅を始めました.\n""
+              ^
+
+File "game/scripts/paths/witch/witch_2/witch_2_start.rpy", line 81: end of line expected.
+    hero "この男はばかげているが、彼には一理あるかもしれない.私が必ずしも彼の"愛の旅"のすべてを受け入れるかどうかはわからないが…"
+                                             ^
+
+File "game/scripts/paths/witch/witch_2/witch_2_start.rpy", line 162: end of line expected.
+    hero "あなたがそれをしているのを人々が聞くことができるなら、それが"両面を演じている"とカウントされるかどうかはわかりません.\n"
+                                         ^
+
+File "game/scripts/paths/witch/witch_2/witch_2_start.rpy", line 168: end of line expected.
+    opportunist "決定者の計画!確かに、私たちはまだ計画が何なのかわかりませんが、それは"信頼する"こと全体の一部ですよね?優れたリーダーは、物事を秘密にしておく方法と時期を知っています.そして時には、優れたリーダーは物事を自分に秘密にしておくことさえ知っています.\n"
+                                                     ^
+
+File "game/scripts/paths/witch/witch_2/witch_2_start.rpy", line 212: Only one say menuitem may exist per menu.
+    "{i}• (탐구)あなたは確かに"ループ"のすべてを理解しているように見えます.{/i}" if witch_2_looping == False:
+                                                  ^
+
+File "game/scripts/paths/witch/witch_2/witch_2_start.rpy", line 285: end of line expected.
+    hero ""全員"と言えるかどうかわかりません.\n"
+           ^
+
+File "game/scripts/paths/witch/witch_2/witch_2_start.rpy", line 1348: end of line expected.
+    n ""さらに良い"というわけではありません.選択を先延ばしにすることは、特に正しい答えをすでに知っている場合には、献身的な決定を下すことよりも常に悪いことです.\n"
+        ^
+
+File "game/scripts/special/caught/caught.rpy", line 215: end of line expected.
+(Perhaps you left out a " at the end of the first line.)
+    truthmid "落胆.触角があなたの魂にぐったりしています.''なぜ?"\n"
+                                          ^
+        truthmid "長い沈黙.うつろな心."
+        truthmid ""私はあなたに会いたくない.''\n"
+
+File "game/scripts/special/credits.rpy", line 26: end of line expected.
+    truthsmall "プレイしてくれてありがとうございます.感謝の気持ちを込めて、あなただけの特別プレイリストのトラックオーダーです.スクリーンショットを撮りたい場合は、"h"を押すとUIを非表示にできます.\n"
+                                                                                           ^
+
+File "game/scripts/special/felina/felina_cabin_strange.rpy", line 29: end of line expected.
+    contrarian "ところで、私たちの"死"で私たちをからかうことに対して悪い感情はありません.私はそれが面白いと思いました.でも、他の人についてはよくわかりません.\n"
+                          ^
+
+File "game/scripts/special/felina/felina_cabin_strange.rpy", line 99: end of line expected.
+    hero "彼が最初から推し進めていた"殺害"のすべてをあなたがやり遂げることに決めたことを考えると、私は驚きました.あなたはその考えを気に入って、その男を憎むことができると思います."
+                        ^
+
+File "game/scripts/special/felina/felina_fight_1.rpy", line 881: end of line expected.
+    mounds "恐怖は、私たちを喪失から守るふりをします.死を恐れることは、体を失うことから"守る"のです.破滅を恐れることは、地位を失うことから"守る"のです.拒絶を恐れることは、知られることから"守る"のです.\n"
+                                                   ^
+
+File "game/scripts/special/felina/felina_slain.rpy", line 105: is not terminated with a newline. (Check strings and parenthesis.)
+(Perhaps you left out a " at the end of the first line.)
+            truthmid ""涙はざらざらしていました.あなたは彼女であるべきものの一部を持っていて、彼女はあなたであるべきものの一部を持っていました.物事は今は当時のようにはならないでしょうが、何もないわけでもありません.''"
+
+File "game/scripts/special/felina/felina_start.rpy", line 121: end of line expected.
+    mound "あなたの目が開き始めても、あなたはまだ"ある"と"ない"、"始まり"と"終わり"の概念に固執しています.無限のまぶしい光の中の真っ黒な島.解決するものは何もなく、私たち以外に私たちを抑制するものは何もありません.\n"
+                               ^
+
+File "game/scripts/special/mirror/mirror.rpy", line 375: end of line expected.
+    mirror ""ナレーター".はい、それが私の仕事だと思いますよね?結局、あなたは助けが必要でした.あなたの刃物を導く客観的な声.でもあなたは私に会うことになっていなかった.あなたがここまで落ちるためにどれだけの世界を絶滅させたのか疑問に思う.\n"
+             ^
+
+File "game/scripts/special/mirror/mirror.rpy", line 490: end of line expected.
+    mirror "いいえ、私は"あなたの一部"ではありませんが、それはすべて視点の問題ですよね?\n"
+                   ^
+
+File "game/scripts/special/mirror/mirror.rpy", line 707: end of line expected.
+    mirror ""いいえ.人生において、私は痛ましい死を迎えました.日々の終わりの証人です.私は死の恐怖を心に抱き、忘却が私が知っているすべてのことと私が愛したすべての人の記憶そのものを脅かすのを見ました.私は何かをする必要がありました.\n""
+             ^
+
+File "game/scripts/special/mirror/mirror.rpy", line 778: end of line expected.
+    mirror "でも、あなたが会ったすべての"私"は、本当にひどい仕事をしたようです.\n"
+                           ^
+
+File "game/scripts/special/mirror/mirror.rpy", line 982: end of line expected.
+    mirror "彼らは明らかにそうではありません.あなたは意図的に、そしてあなたの独特の性質によって、あなたがするように"死"を経験します.\n"
+                                                                 ^
+
+File "game/scripts/special/the_quiet/quiet_2.rpy", line 68: is not terminated with a newline. (Check strings and parenthesis.)
+(Perhaps you left out a " at the end of the first line.)
+                mound "子供も幼児と同じですか?私は途切れることのないパターンですが、すべての器は新鮮な視点を与え、新しい表現の道を切り開きます.''私"は違いますが、私は同じです."
+
+File "game/scripts/special/the_quiet/quiet_4.rpy", line 89: is not terminated with a newline. (Check strings and parenthesis.)
+(Perhaps you left out a " at the end of the first line.)
+                mound "私たちは現実です.''何もない"とは、"何か"がないところに宿る考え方です.しかし、"何もない"だけでは存在できません.そのため、"何もない"は存在できません."
+
+Ren'Py Version: Ren'Py 8.0.3.22090809
+Sun Nov 19 03:41:59 2023
+```
